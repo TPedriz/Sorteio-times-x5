@@ -28,11 +28,11 @@ Um script de linha de comando em Python para sortear dois times balanceados para
 
 1.  Clone este repositório para a sua máquina local:
     ```bash
-    git clone [https://github.com/TPedriz/SEU-REPOSITORIO.git](https://github.com/TPedriz/SEU-REPOSITORIO.git)
+    git clone [https://github.com/TPedriz/Sorteio-times-x5.git](https://github.com/TPedriz/Sorteio-times-x5.git)
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd SEU-REPOSITORIO
+    cd Sorteio-times-x5
     ```
 
 ### Executando o Script
